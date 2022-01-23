@@ -5,6 +5,7 @@ body {
 #card-3 {
   position: relative;
   background-color: lavender;
+  border-radius: 20px;
 }
 
 #card-3-top {
