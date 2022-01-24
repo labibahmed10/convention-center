@@ -5,7 +5,8 @@ body {
 .top-3 {
   position: relative;
   bottom: 50px;
-  box-shadow: rgba(0, 255, 255, 0.795);
+  background-color: aqua;
+  box-shadow: 5px 25px 15px rgba(0, 255, 255, 0.212);
 }
 
 .spacial-top {
