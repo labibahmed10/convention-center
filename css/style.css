@@ -2,6 +2,7 @@ body {
   font-family: "EB Garamond", serif;
 }
 
+/* carousel part */
 .carousel-height {
   height: 700px;
 }
@@ -9,26 +10,64 @@ body {
 .carousel-item img {
   height: 700px;
   width: 100%;
-  image-resolution: 100%;
 }
 
+.button-sp {
+  background-color: #dbe7e4;
+  color: #001524;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.button-sp:hover {
+  color: white;
+}
+
+/* carousle part */
+
+.navbar-color {
+  background-color: #cad2c59c;
+}
+
+/* project part */
+.fa-star {
+  color: #fd3f62;
+}
+/* project part */
+
+/* package part */
 .top-3 {
   position: relative;
   bottom: 50px;
-  background-color: aqua;
-  box-shadow: 5px 25px 15px rgba(0, 255, 255, 0.212);
+  border-radius: 15px;
+  background-color: #bee1e6;
+  box-shadow: 5px 25px 12px #bee1e67a;
 }
 
+.top-3 li {
+  background-color: #bee1e6;
+}
+
+.fa-check-circle {
+  color: #519ec7;
+}
 .spacial-top {
   position: absolute;
-  background-color: aqua;
+  background-color: #fd3f62;
+  color: white;
   width: 60px;
   padding: 5px;
-  border-radius: 5px;
+  border-radius: 10px;
   top: -10px;
   right: 30px;
 }
 
-.fa-check-circle {
-  color: aqua;
+.package-btn {
+  background-color: #dbe7e4;
+  border: 0;
+  color: #001524;
+  font-weight: 500;
 }
+
+/* package part */
