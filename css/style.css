@@ -3,12 +3,15 @@ body {
 }
 
 /* navbar color */
+
 .navbar-color {
   background-color: #cad2c59c;
 }
+
 /* navbar color */
 
 /* carousel part */
+
 .carousel-height {
   height: 700px;
 }
@@ -33,12 +36,15 @@ body {
 /* carousle part */
 
 /* project part */
+
 .fa-star {
   color: #fd3f62;
 }
+
 /* project part */
 
 /* package part */
+
 .top-3 {
   position: relative;
   bottom: 50px;
