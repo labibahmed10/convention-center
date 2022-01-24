@@ -2,6 +2,12 @@ body {
   font-family: "EB Garamond", serif;
 }
 
+/* navbar color */
+.navbar-color {
+  background-color: #cad2c59c;
+}
+/* navbar color */
+
 /* carousel part */
 .carousel-height {
   height: 700px;
@@ -25,10 +31,6 @@ body {
 }
 
 /* carousle part */
-
-.navbar-color {
-  background-color: #cad2c59c;
-}
 
 /* project part */
 .fa-star {
