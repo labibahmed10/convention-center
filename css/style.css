@@ -2,6 +2,16 @@ body {
   font-family: "EB Garamond", serif;
 }
 
+.carousel-height {
+  height: 700px;
+}
+
+.carousel-item img {
+  height: 700px;
+  width: 100%;
+  image-resolution: 100%;
+}
+
 .top-3 {
   position: relative;
   bottom: 50px;
